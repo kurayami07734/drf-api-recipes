@@ -1,0 +1,1001 @@
+make,model,model_year,rating,origin_country,category
+Volvo,V70,1999,77,China,Convertible
+Volkswagen,Jetta,1984,14,Tajikistan,Hatchback
+Dodge,Ram Van 2500,1996,50,China,Hatchback
+Porsche,Cayman,2011,36,Ukraine,Truck
+Eagle,Summit,1993,48,Sweden,Hatchback
+Volkswagen,Cabriolet,1990,6,Bulgaria,Convertible
+Dodge,Ram 3500 Club,1995,60,Indonesia,Convertible
+Chevrolet,Aveo,2006,12,Poland,Sedan
+Chevrolet,Express 1500,1998,14,Czech Republic,Truck
+Pontiac,Montana SV6,2005,37,France,Convertible
+Suzuki,Sidekick,1993,9,Estonia,Truck
+Hyundai,Santa Fe,2012,77,Brazil,SUV
+Studebaker,Avanti,1962,46,China,Convertible
+Ford,Escape,2003,21,China,Hatchback
+Volkswagen,Type 2,1987,38,Peru,Hatchback
+Honda,CR-V,2010,80,China,Sedan
+Scion,xD,2011,82,Indonesia,Truck
+Kia,Optima,2006,67,Greece,Sedan
+Chevrolet,Avalanche 2500,2004,92,Indonesia,Truck
+Buick,Century,2005,93,Portugal,Convertible
+Lincoln,Continental,1991,57,Argentina,Sedan
+Buick,Skylark,1997,18,Poland,Hatchback
+Ford,F-Series,1993,62,Indonesia,SUV
+Chevrolet,Suburban 1500,2006,71,China,Convertible
+Honda,Fit,2012,62,Russia,Hatchback
+Chevrolet,S10 Blazer,1994,35,Philippines,Sedan
+Toyota,Previa,1994,96,France,SUV
+Toyota,Supra,1997,12,Ghana,Truck
+Dodge,Ram Van 2500,2002,11,Portugal,Sedan
+MINI,Clubman,2012,77,Nepal,Convertible
+Ford,Crown Victoria,2006,8,China,Truck
+Eagle,Talon,1991,66,Vietnam,Hatchback
+Hyundai,Tucson,2007,35,Peru,Truck
+Toyota,Land Cruiser,1993,31,Gambia,Truck
+Mercury,Villager,2000,81,Belarus,Sedan
+GMC,Yukon,2009,76,China,SUV
+Cadillac,CTS,2009,6,Indonesia,Convertible
+Honda,Accord Crosstour,2011,91,Russia,SUV
+Ford,Expedition,2011,71,Serbia,Sedan
+Ford,Mustang,1973,90,Indonesia,Truck
+Hyundai,Accent,2000,8,Indonesia,Convertible
+Land Rover,Discovery,2010,49,Philippines,Sedan
+Audi,S5,2010,99,Poland,SUV
+Dodge,Ram Van 1500,2003,24,Peru,Hatchback
+Ford,Crown Victoria,1992,67,China,Sedan
+Dodge,Ram 1500 Club,1995,33,China,Truck
+Audi,Coupe Quattro,1991,62,Ukraine,Truck
+Chevrolet,Tahoe,2006,38,China,SUV
+Toyota,Sequoia,2005,49,Germany,Hatchback
+Mitsubishi,Galant,1996,91,Croatia,Hatchback
+Ford,F150,2001,31,Thailand,Truck
+GMC,Safari,2001,41,Azerbaijan,Hatchback
+Maybach,57,2009,44,Kazakhstan,Truck
+Rolls-Royce,Ghost,2010,23,China,Convertible
+BMW,530,2001,86,Kenya,Truck
+Lincoln,Navigator L,2010,25,China,Convertible
+Honda,del Sol,1997,14,Thailand,SUV
+Mercedes-Benz,E-Class,1997,2,Germany,SUV
+Maybach,62,2003,53,Venezuela,Convertible
+Ford,Crown Victoria,1999,55,Iceland,Truck
+Toyota,Venza,2009,89,Russia,Truck
+Eagle,Vision,1995,57,Russia,Convertible
+Kia,Optima,2002,24,Nigeria,SUV
+Nissan,Versa,2011,83,United States,SUV
+Mitsubishi,Truck,1994,91,China,Hatchback
+Audi,Cabriolet,1998,86,Poland,Hatchback
+Chrysler,Crossfire,2005,93,Democratic Republic of the Congo,Truck
+Volkswagen,Golf,1999,53,Philippines,Truck
+Chevrolet,TrailBlazer,2005,89,Finland,SUV
+Audi,riolet,1998,7,France,Hatchback
+Ford,F150,1993,41,Brazil,Convertible
+Mercedes-Benz,SL-Class,1996,13,North Korea,Sedan
+Mazda,Mazdaspeed 3,2007,98,Colombia,Truck
+Mazda,MX-5,1999,35,Hungary,Convertible
+BMW,5 Series,1997,63,Philippines,Hatchback
+Oldsmobile,Silhouette,1996,82,Vietnam,Sedan
+Nissan,Cube,2009,40,Portugal,Convertible
+Lincoln,Mark VIII,1995,54,Greece,Truck
+Acura,TSX,2007,53,China,Hatchback
+Mitsubishi,Diamante,2000,87,China,Sedan
+Chrysler,300,2011,90,France,Hatchback
+Toyota,Echo,2001,85,Poland,Sedan
+Volvo,XC70,2009,6,Mauritania,Sedan
+Chrysler,Concorde,1997,53,United States,Hatchback
+Mercedes-Benz,E-Class,1996,5,China,Convertible
+Acura,TSX,2009,14,China,Sedan
+Mercedes-Benz,500E,1993,57,Albania,SUV
+Chevrolet,Suburban 2500,1996,63,Brazil,SUV
+Jeep,Grand Cherokee,2012,82,China,Hatchback
+Ford,E150,1984,100,France,Truck
+Buick,Lucerne,2006,12,Indonesia,Truck
+Mitsubishi,Galant,2010,83,Bangladesh,Truck
+Dodge,Caravan,1997,40,Indonesia,Convertible
+Chevrolet,1500,1997,56,Philippines,Convertible
+Buick,Century,1999,35,Philippines,Hatchback
+Mazda,929,1990,45,Greece,Sedan
+Hyundai,XG350,2003,26,China,Truck
+Chevrolet,Express 3500,2008,20,China,Hatchback
+Dodge,D250 Club,1992,34,Colombia,Truck
+Volkswagen,Golf,1995,35,Philippines,Truck
+Acura,ZDX,2010,59,Poland,Truck
+Toyota,Tacoma,2000,63,China,Hatchback
+Porsche,911,1992,58,China,Convertible
+Dodge,Viper RT/10,1995,9,Cameroon,Truck
+Toyota,Tacoma,2004,13,Greece,Sedan
+Mazda,Mazda5,2006,90,Nigeria,Truck
+Mitsubishi,Lancer,2006,10,Greece,Sedan
+Dodge,Avenger,1998,31,Philippines,Convertible
+Tesla,Roadster,2010,59,China,Convertible
+Rolls-Royce,Phantom,2006,53,Sweden,Convertible
+Land Rover,Discovery,2010,13,Syria,Convertible
+Toyota,Sequoia,2009,58,Ukraine,Hatchback
+Mercedes-Benz,CLK-Class,1998,85,Kazakhstan,Truck
+Suzuki,Daewoo Magnus,2005,86,Iran,SUV
+Chrysler,Crossfire Roadster,2006,48,Bulgaria,Sedan
+Nissan,Altima,1995,45,Philippines,Sedan
+Lincoln,Continental,1999,36,China,Sedan
+Toyota,Highlander,2006,95,Japan,SUV
+Mazda,Mazdaspeed 3,2008,17,Sierra Leone,Hatchback
+GMC,Yukon,2003,97,Brazil,Convertible
+Ford,Mustang,2008,20,Brazil,Hatchback
+Volkswagen,Touareg,2006,80,Sierra Leone,Truck
+Toyota,Sienna,2000,83,Mexico,Truck
+Oldsmobile,Silhouette,1992,99,Argentina,Sedan
+Isuzu,i-Series,2006,56,Croatia,Sedan
+Nissan,Sentra,2001,78,Russia,SUV
+Mazda,Mazda5,2009,99,Russia,Truck
+GMC,Sierra 1500,2009,21,China,Truck
+Lamborghini,Gallardo,2007,96,Indonesia,Hatchback
+Mitsubishi,Pajero,1990,52,China,Hatchback
+Dodge,Stratus,2000,52,Mali,Sedan
+Bentley,Azure,2007,37,Indonesia,Convertible
+Mercury,Mariner,2010,60,Vietnam,Hatchback
+GMC,1500,1994,92,Philippines,Truck
+Hyundai,Sonata,1998,49,Marshall Islands,Convertible
+Infiniti,I,2003,19,Sweden,Convertible
+Pontiac,Grand Prix,1962,30,Denmark,Convertible
+Ford,Econoline E350,2002,68,Kazakhstan,Sedan
+Mitsubishi,Galant,1986,54,Philippines,Hatchback
+Nissan,Pathfinder,2012,15,Czech Republic,SUV
+Mazda,MX-5,2004,15,Vietnam,Sedan
+GMC,3500 Club Coupe,1993,27,Thailand,Hatchback
+Chevrolet,G-Series G10,1995,17,China,Convertible
+Audi,TT,2008,83,Japan,Sedan
+Jaguar,XJ,2006,85,China,Truck
+Plymouth,Grand Voyager,2000,89,Latvia,Truck
+Pontiac,Grand Prix,1992,62,Poland,Truck
+Mercury,Mariner,2006,63,Brazil,SUV
+Alfa Romeo,Spider,1994,8,Indonesia,Sedan
+Lotus,Exige,2008,82,Indonesia,Sedan
+Isuzu,Amigo,1994,67,Germany,Sedan
+Lincoln,Navigator,2010,82,Philippines,Sedan
+Dodge,Dakota,2008,46,Indonesia,Hatchback
+Mazda,Millenia,2000,3,Brazil,Hatchback
+Buick,Park Avenue,1993,78,Poland,Convertible
+Eagle,Talon,1992,67,China,Sedan
+Honda,Civic,2005,89,Russia,Sedan
+BMW,M3,2002,75,Georgia,SUV
+Cadillac,SRX,2009,25,Philippines,Truck
+Toyota,Tacoma,2012,74,Chile,Sedan
+GMC,Savana 1500,2001,24,Azerbaijan,Truck
+Lexus,LS,2008,38,United States,Truck
+Saab,9-5,2005,50,China,SUV
+Honda,Element,2005,63,Indonesia,SUV
+Isuzu,Amigo,1992,62,South Africa,Convertible
+Lincoln,Town Car,1995,83,Canada,Hatchback
+Nissan,Frontier,2009,96,Latvia,SUV
+Mazda,GLC,1984,62,Sweden,Truck
+Mercury,Mystique,1997,46,Russia,Sedan
+Toyota,Previa,1993,28,Argentina,Truck
+Ford,Windstar,2000,91,Costa Rica,SUV
+Mercury,Sable,2008,1,Paraguay,Truck
+Ford,Escort,1984,92,Sweden,Sedan
+Subaru,Brat,1987,18,France,Hatchback
+Mazda,Familia,1988,93,Indonesia,Hatchback
+BMW,M3,1999,67,Argentina,Convertible
+GMC,Yukon XL 2500,2010,21,United States,Hatchback
+Mercedes-Benz,E-Class,1987,94,China,Sedan
+Saturn,Aura,2009,84,Indonesia,Truck
+Volkswagen,Passat,1987,42,Russia,SUV
+Buick,Park Avenue,1995,77,Afghanistan,Convertible
+Jeep,Compass,2010,13,Albania,Sedan
+Land Rover,Discovery,1996,10,South Africa,SUV
+Porsche,911,1988,13,Greece,Truck
+Isuzu,Hombre Space,1998,51,Colombia,Truck
+Nissan,Maxima,2003,51,Poland,Convertible
+Dodge,Sprinter,2006,67,China,Truck
+Mazda,MX-6,1992,46,Indonesia,Sedan
+Subaru,Forester,2001,64,Russia,Convertible
+Dodge,Ram,2008,62,France,SUV
+Dodge,Caliber,2008,21,Philippines,Hatchback
+Mercedes-Benz,400E,1992,29,Reunion,Sedan
+Mazda,MX-5,1997,46,Russia,Truck
+Chevrolet,Silverado 1500,2001,3,Ireland,Truck
+Mazda,MX-6,1996,11,Brazil,Truck
+Mazda,MPV,1996,72,China,Sedan
+Kia,Sportage,2008,79,Denmark,SUV
+Infiniti,G,1995,27,Russia,SUV
+Chevrolet,3500,1995,4,Brazil,Sedan
+Chevrolet,G-Series G30,1995,81,Sweden,SUV
+Ford,F450,2012,68,Russia,SUV
+Audi,TT,2012,26,France,Convertible
+BMW,550,2006,21,Panama,SUV
+BMW,530,2001,67,Comoros,Truck
+Volvo,S40,2001,62,China,Sedan
+Isuzu,Amigo,1993,49,China,Hatchback
+Honda,Civic,2009,28,Greece,Sedan
+BMW,5 Series,1994,58,Russia,Truck
+Toyota,RAV4,2011,76,China,Sedan
+Porsche,Carrera GT,2005,12,Poland,Truck
+Subaru,Justy,1987,28,Indonesia,Sedan
+Nissan,240SX,1992,79,China,Convertible
+Toyota,Tacoma,1995,51,China,Truck
+Kia,Sportage,2001,83,China,Sedan
+Chrysler,Town & Country,1996,97,Indonesia,Hatchback
+Chevrolet,Cruze,2013,46,Ukraine,Hatchback
+Toyota,RAV4,1997,91,Russia,Truck
+Isuzu,Trooper,1999,93,Japan,Truck
+Acura,CL,1997,47,Philippines,Sedan
+Subaru,Legacy,1991,68,Sweden,SUV
+Dodge,Neon,1997,33,Poland,Truck
+Land Rover,Discovery,1998,89,China,Truck
+Volkswagen,Passat,2008,44,Pakistan,Hatchback
+Volkswagen,Touareg,2005,85,Ukraine,Truck
+Ford,Mustang,2003,8,Greece,Convertible
+Hyundai,Tucson,2008,51,China,SUV
+Nissan,Titan,2008,50,Kazakhstan,Convertible
+Chevrolet,Corvette,2002,88,Mayotte,Hatchback
+Audi,RS6,2003,15,China,Hatchback
+Porsche,Cayenne,2004,35,Mexico,Hatchback
+Toyota,RAV4,2000,65,Philippines,SUV
+BMW,X6 M,2011,14,China,Truck
+Porsche,911,1995,97,Russia,Truck
+BMW,7 Series,2006,52,China,Hatchback
+Infiniti,FX,2003,67,Philippines,Hatchback
+Acura,TL,2010,86,China,Convertible
+Cadillac,STS,2010,84,Philippines,Sedan
+Saturn,Ion,2004,68,Colombia,Truck
+Chrysler,Town & Country,1999,40,China,Convertible
+Ford,Explorer,1992,23,Indonesia,Sedan
+Dodge,Charger,2011,51,Russia,Convertible
+Chevrolet,Tahoe,2013,26,Poland,Hatchback
+Chevrolet,Cavalier,1994,37,China,SUV
+Mitsubishi,Montero,1998,4,France,Hatchback
+Ford,E150,2010,14,Iran,Hatchback
+GMC,Envoy,2009,2,Philippines,Sedan
+Hyundai,Tiburon,2003,18,Portugal,Truck
+Ram,2500,2011,80,Indonesia,Hatchback
+Pontiac,Daewoo Kalos,2005,26,Poland,Sedan
+Bentley,Continental Flying Spur,2009,58,Indonesia,Convertible
+BMW,M3,2002,92,China,Hatchback
+Hummer,H3T,2010,64,Palestinian Territory,Truck
+Mitsubishi,Galant,1998,78,Brazil,Truck
+Audi,S8,2001,48,Canada,Convertible
+Ford,Thunderbird,1984,52,France,Hatchback
+BMW,525,2006,7,Ukraine,Convertible
+Dodge,Ram 2500 Club,1999,94,Philippines,Truck
+Jaguar,XK Series,2000,82,France,Convertible
+Acura,TL,2008,99,China,Convertible
+Chevrolet,Silverado 2500,2008,42,Serbia,Hatchback
+Kia,Optima,2011,40,Japan,Convertible
+Toyota,FJ Cruiser,2007,23,New Zealand,Sedan
+Hyundai,Sonata,1992,98,China,SUV
+Volkswagen,New Beetle,2008,50,Russia,SUV
+GMC,Yukon,2006,48,China,Sedan
+Oldsmobile,Silhouette,2001,93,China,Sedan
+Pontiac,Grand Prix,1989,36,Poland,Sedan
+Chevrolet,S10,2001,46,Russia,Hatchback
+BMW,M5,2001,7,China,Sedan
+Mercury,Sable,1998,44,Denmark,Convertible
+Saturn,VUE,2009,93,Russia,Truck
+Jeep,Wrangler,2007,64,Japan,Hatchback
+Porsche,911,1985,90,Thailand,SUV
+Chevrolet,Venture,2000,18,Indonesia,Convertible
+Ford,Econoline E350,1993,23,Russia,SUV
+GMC,Savana 3500,2012,58,Afghanistan,Hatchback
+Dodge,Shadow,1994,25,Seychelles,Hatchback
+Volkswagen,Beetle,1965,65,Turkmenistan,Sedan
+Pontiac,Grand Am,2004,18,United States,Hatchback
+Ford,Ranger,1988,17,Argentina,Hatchback
+Chrysler,300,1999,39,Philippines,Sedan
+Subaru,Outback,2002,79,Venezuela,Sedan
+Porsche,911,2013,65,Indonesia,Convertible
+Mercedes-Benz,CLK-Class,2009,55,Greece,Convertible
+GMC,Sierra 3500,2001,19,Poland,Convertible
+Jaguar,S-Type,2007,17,Peru,Sedan
+Mercury,Milan,2011,83,China,Hatchback
+Eagle,Vision,1997,55,United States,Convertible
+Kia,Spectra5,2006,46,Brazil,Hatchback
+GMC,Yukon XL 2500,2009,32,Indonesia,Sedan
+Cadillac,CTS-V,2006,76,Netherlands,Sedan
+Honda,Odyssey,1997,61,Indonesia,SUV
+GMC,Savana 2500,2008,46,Portugal,Truck
+Chevrolet,G-Series G10,1993,52,China,SUV
+Porsche,Boxster,2001,77,Indonesia,Sedan
+Pontiac,GTO,2004,5,Sweden,SUV
+Mercury,Cougar,2000,97,Argentina,Truck
+Honda,Accord,2007,2,France,Convertible
+Ford,Courier,1987,2,France,Sedan
+Mercedes-Benz,300SD,1992,35,Vietnam,Hatchback
+Pontiac,Daewoo Kalos,2006,91,Poland,SUV
+Chevrolet,Corvette,1970,5,New Caledonia,Truck
+Pontiac,Grand Prix,1965,36,China,Sedan
+Subaru,SVX,1994,50,Indonesia,Convertible
+Chevrolet,Express,2006,93,Afghanistan,Hatchback
+Alfa Romeo,164,1995,44,Brazil,Convertible
+Ford,E250,2012,72,Indonesia,Hatchback
+Ford,F-Series,1997,27,Vietnam,SUV
+Land Rover,Range Rover Sport,2009,93,Indonesia,Truck
+Ford,E-Series,2005,41,Ivory Coast,SUV
+Chevrolet,Avalanche,2006,90,Portugal,Truck
+Ford,Fusion,2009,82,Pakistan,Truck
+Kia,Spectra,2000,33,China,Sedan
+GMC,1500 Club Coupe,1998,90,Russia,Sedan
+Mercedes-Benz,SLK55 AMG,2009,89,China,Hatchback
+Mercury,Milan,2006,34,United Kingdom,Convertible
+Oldsmobile,Cutlass Supreme,1994,74,Serbia,Truck
+Subaru,Forester,1999,30,Russia,Sedan
+Ford,Explorer,1996,99,Macedonia,SUV
+Cadillac,Eldorado,1999,10,Democratic Republic of the Congo,Convertible
+Honda,CR-V,2007,73,Russia,Hatchback
+Mercedes-Benz,E-Class,2001,10,China,Truck
+GMC,Savana 2500,1999,60,Poland,Convertible
+Dodge,Dakota Club,2007,59,Indonesia,SUV
+Chevrolet,Avalanche,2002,80,Philippines,Convertible
+Mazda,MX-5,2012,100,Kyrgyzstan,Truck
+Plymouth,Prowler,1999,71,Tanzania,Hatchback
+Bentley,Azure T,2010,39,China,Truck
+Nissan,Armada,2008,99,Indonesia,Convertible
+Chevrolet,Tracker,2002,87,Russia,Hatchback
+Mazda,626,2001,95,Kazakhstan,Sedan
+Volkswagen,Rabbit,2010,57,China,Hatchback
+Lotus,Exige,2006,48,Indonesia,Convertible
+Dodge,Ram 1500 Club,2001,98,France,Sedan
+GMC,Sonoma,1994,3,Brazil,Hatchback
+Mazda,Protege,2002,14,Sweden,Sedan
+Mercury,Grand Marquis,2004,64,Poland,Convertible
+Pontiac,LeMans,1989,75,Philippines,Convertible
+Acura,SLX,1998,84,Japan,Convertible
+Chevrolet,Suburban,2006,62,China,SUV
+GMC,Suburban 1500,1994,87,Poland,SUV
+Nissan,Rogue,2008,2,China,Convertible
+Cadillac,DTS,2009,43,China,SUV
+Chevrolet,Aveo,2009,30,Philippines,SUV
+MINI,Cooper,2012,43,Sweden,SUV
+Aptera,2e,2009,57,France,Convertible
+Mercury,Montego,2005,90,Indonesia,Convertible
+Pontiac,Grand Prix,2007,39,Philippines,Sedan
+Pontiac,Sunfire,2000,44,Cyprus,Sedan
+Volkswagen,Corrado,1991,29,Chile,SUV
+Ford,Bronco II,1984,14,Russia,Hatchback
+Acura,MDX,2005,32,China,Truck
+Volkswagen,Jetta,1998,44,Mexico,Hatchback
+Porsche,Cayman,2009,12,Brazil,SUV
+Mercedes-Benz,E-Class,2001,4,Peru,Convertible
+Mazda,Tribute,2009,87,China,Hatchback
+Aston Martin,Vantage,2008,25,Indonesia,Truck
+Infiniti,G25,2011,60,Senegal,Hatchback
+Dodge,Durango,1998,67,Pakistan,Hatchback
+Mercedes-Benz,SLK-Class,2002,21,Sweden,SUV
+Hyundai,Elantra,2006,26,Honduras,SUV
+Dodge,D150 Club,1993,43,China,Convertible
+Nissan,Pathfinder,1993,80,China,Sedan
+Jeep,Commander,2006,18,Central African Republic,SUV
+Nissan,Maxima,1994,32,United Kingdom,Convertible
+Pontiac,Bonneville,1996,66,France,Sedan
+Suzuki,SX4,2009,48,Japan,Truck
+Chevrolet,Express 1500,2000,91,Canada,Truck
+Saturn,L-Series,2003,50,Cyprus,Hatchback
+Mercury,Grand Marquis,1985,91,China,Sedan
+Lotus,Evora,2012,33,China,SUV
+Ford,Explorer Sport Trac,2002,51,United States,Truck
+Mercury,Grand Marquis,1987,57,Haiti,Hatchback
+Honda,Prelude,1992,85,China,Convertible
+Oldsmobile,98,1994,60,Indonesia,Truck
+GMC,Yukon XL,2006,43,Palestinian Territory,SUV
+Subaru,Legacy,1993,1,Honduras,Sedan
+GMC,Savana,2009,75,China,Sedan
+Volkswagen,Jetta,2001,79,Sudan,SUV
+Ford,Fusion,2012,24,Indonesia,Sedan
+Hyundai,Sonata,2009,97,Czech Republic,Sedan
+Pontiac,Bonneville,1989,54,Indonesia,Convertible
+Suzuki,Verona,2005,86,Kyrgyzstan,Sedan
+Shelby,GT500,1968,82,Pakistan,Convertible
+Chevrolet,Astro,1999,71,China,SUV
+Ford,Taurus,2012,90,Indonesia,Truck
+Chevrolet,Express 1500,2005,92,Russia,Hatchback
+Volvo,S40,2008,51,Taiwan,Convertible
+Mitsubishi,Mirage,1989,63,China,SUV
+Hyundai,Tiburon,2004,28,Russia,Truck
+Dodge,Ram 3500,1999,6,China,Sedan
+Mitsubishi,Pajero,2000,37,Russia,Sedan
+Chevrolet,G-Series G20,1995,76,China,Sedan
+Buick,Skyhawk,1985,13,China,Truck
+Ford,Thunderbird,1989,50,Republic of the Congo,Convertible
+Mitsubishi,Mirage,1993,11,France,Truck
+Honda,Element,2006,79,Macedonia,SUV
+Mitsubishi,Galant,2002,27,Peru,Sedan
+Land Rover,Range Rover,1987,44,Peru,Sedan
+Acura,Legend,1995,57,China,Sedan
+Cadillac,Escalade,2011,9,Iran,Sedan
+Dodge,Dakota,2001,42,Mauritius,Hatchback
+Dodge,Ram 2500,1995,93,Sweden,Sedan
+Honda,Prelude,2000,76,Slovenia,Truck
+Ford,E-Series,1996,20,Philippines,Sedan
+Scion,xD,2009,28,China,Truck
+Chevrolet,G-Series 2500,1997,98,France,SUV
+Plymouth,Grand Voyager,1994,40,China,SUV
+Aston Martin,V8 Vantage,2010,78,China,Truck
+Chevrolet,Camaro,1970,67,Dominican Republic,Truck
+Chevrolet,Corvette,1994,44,Indonesia,SUV
+Mitsubishi,Galant,1986,40,Bulgaria,Hatchback
+GMC,Savana 2500,2005,89,China,Sedan
+Mitsubishi,Pajero,1984,47,Poland,Truck
+Dodge,Ram Van 2500,2003,73,Greece,SUV
+Audi,Cabriolet,1998,67,Brazil,SUV
+Volkswagen,Jetta,1996,23,Indonesia,SUV
+Nissan,Sentra,2011,33,United States,Hatchback
+Kia,Sorento,2004,65,Latvia,Hatchback
+Honda,Odyssey,2004,59,Ireland,Convertible
+Ford,Escape,2001,51,Peru,Convertible
+Lexus,LS,2006,67,Philippines,Hatchback
+Mercedes-Benz,E-Class,1987,36,China,SUV
+Toyota,Land Cruiser,2005,49,China,Hatchback
+Isuzu,Ascender,2005,40,Canada,Truck
+Audi,S4,2009,48,Morocco,SUV
+Nissan,Altima,1994,100,Portugal,Hatchback
+Mazda,MX-5,1992,89,Brazil,Convertible
+Nissan,Armada,2011,67,Indonesia,Convertible
+Jeep,Liberty,2004,27,China,Hatchback
+Hyundai,Accent,2003,84,China,Sedan
+Pontiac,Grand Prix,1971,56,Kazakhstan,Convertible
+Saturn,S-Series,1993,11,United States,Truck
+Nissan,Altima,2000,52,Brazil,Convertible
+Volkswagen,GLI,2009,69,China,Convertible
+Buick,Coachbuilder,1994,46,Indonesia,Truck
+Volvo,S40,2001,57,Colombia,Hatchback
+GMC,Sonoma,1994,33,China,Sedan
+Mazda,B-Series,1993,88,China,Hatchback
+Toyota,Highlander,2009,93,Poland,Truck
+Acura,RL,2004,92,Indonesia,Sedan
+Toyota,Solara,2004,74,United States,Convertible
+Land Rover,Discovery,2010,80,China,Truck
+Infiniti,G,2005,44,Thailand,Convertible
+Cadillac,Escalade ESV,2010,15,Indonesia,Sedan
+Mazda,929,1991,88,Canada,Convertible
+Lincoln,Navigator,2003,69,Philippines,SUV
+Audi,90,1993,79,Russia,Convertible
+Ford,Thunderbird,2004,22,Peru,Sedan
+Toyota,Corolla,1997,16,Vietnam,Truck
+Dodge,Viper,1995,40,Indonesia,Hatchback
+Hyundai,Azera,2006,16,United States,Truck
+Infiniti,M,2007,62,Micronesia,SUV
+Infiniti,QX56,2008,31,Argentina,Truck
+Toyota,RAV4,2009,58,Poland,Hatchback
+Ford,Taurus,1999,22,China,SUV
+Ford,Bronco II,1987,3,Finland,Sedan
+Ford,Aerostar,1986,8,Thailand,Sedan
+Infiniti,G,2005,42,Colombia,Sedan
+Dodge,Caravan,1995,71,Cuba,Hatchback
+Dodge,Ram Wagon B250,1994,24,Poland,SUV
+Kia,Rio,2006,25,Nigeria,Sedan
+Chrysler,Concorde,1997,92,Vietnam,Sedan
+Chevrolet,Impala,2008,15,Poland,Truck
+Ford,Crown Victoria,2008,63,Indonesia,SUV
+Maserati,GranTurismo,2012,30,Indonesia,Sedan
+Honda,Insight,2005,60,China,Convertible
+Honda,Odyssey,2011,89,Norway,SUV
+GMC,Sierra 2500,2012,84,Malaysia,SUV
+Lincoln,Mark VII,1984,38,Brazil,Hatchback
+Suzuki,Esteem,1998,87,Solomon Islands,SUV
+Ford,F250,2011,38,Brazil,SUV
+GMC,Sonoma,2004,64,France,Truck
+Acura,NSX,2000,97,China,SUV
+Jaguar,XJ Series,2005,38,Russia,Convertible
+Scion,xA,2006,69,Indonesia,SUV
+Toyota,Camry,2004,57,Portugal,Hatchback
+Toyota,Xtra,1993,4,Brazil,Sedan
+GMC,Yukon,1993,26,New Caledonia,Truck
+Volkswagen,Corrado,1994,87,Russia,Sedan
+BMW,M3,2004,65,China,Hatchback
+Suzuki,Esteem,2002,58,China,Convertible
+Acura,RL,2008,20,Canada,Sedan
+Volvo,S40,2000,44,South Africa,Hatchback
+Scion,iQ,2012,57,Russia,Convertible
+Toyota,Camry,2003,1,Mexico,Truck
+Jaguar,S-Type,2007,83,United States,Convertible
+Kia,Forte,2012,80,Brazil,SUV
+Saab,900,1988,77,Russia,Truck
+Chrysler,PT Cruiser,2002,13,Azerbaijan,SUV
+BMW,X6 M,2013,22,Russia,Hatchback
+Dodge,Dynasty,1992,25,Russia,Hatchback
+Mazda,929,1993,47,Portugal,Truck
+Isuzu,Trooper,2000,39,Morocco,Convertible
+BMW,525,2005,98,Morocco,Truck
+Maybach,62,2004,78,Russia,Hatchback
+Isuzu,Rodeo,1998,100,France,Hatchback
+Dodge,Ram 1500,2000,71,Indonesia,Truck
+Citroën,2CV,1948,6,Bulgaria,Convertible
+Infiniti,QX,1997,15,China,Hatchback
+Volkswagen,Type 2,1986,14,Brazil,Convertible
+Mercedes-Benz,G-Class,2006,73,China,Truck
+Hummer,H2,2006,90,Indonesia,SUV
+Buick,Lucerne,2008,7,United States,Convertible
+Pontiac,Firebird,1984,12,Indonesia,Hatchback
+Chevrolet,Beretta,1992,36,Russia,Convertible
+Honda,CR-X,1985,9,Czech Republic,SUV
+Infiniti,QX,2009,63,United States,Hatchback
+Mercedes-Benz,SL-Class,2004,11,Indonesia,Truck
+Ford,Aerostar,1986,85,Venezuela,Sedan
+Chevrolet,Monte Carlo,1998,4,Lithuania,Sedan
+Toyota,Camry,2001,2,Czech Republic,Truck
+Mercury,Mountaineer,2006,56,Nigeria,Convertible
+Volkswagen,Eos,2011,53,Indonesia,SUV
+Hyundai,Equus,2013,80,Kazakhstan,Sedan
+Oldsmobile,98,1994,45,Brazil,Hatchback
+Jaguar,S-Type,2002,40,China,Convertible
+Ford,Thunderbird,1994,78,China,Sedan
+Dodge,D350,1993,44,Greece,Convertible
+Suzuki,Samurai,1992,26,China,Hatchback
+Nissan,Murano,2006,55,Indonesia,Convertible
+Toyota,Land Cruiser,2000,2,China,Sedan
+Chevrolet,Camaro,1985,48,Philippines,SUV
+Pontiac,Torrent,2008,87,Indonesia,Truck
+Chevrolet,Suburban,2010,67,Argentina,Convertible
+Dodge,Dakota,2007,14,Russia,SUV
+Volvo,XC90,2006,13,Mexico,SUV
+Infiniti,Q,2000,81,Indonesia,Sedan
+Porsche,944,1984,61,Thailand,Convertible
+Mercury,Cougar,1989,79,Nicaragua,SUV
+Chevrolet,Malibu Maxx,2006,81,Malaysia,Sedan
+Honda,Prelude,1994,6,Thailand,SUV
+Ford,E150,1984,27,Pakistan,SUV
+Toyota,Tundra,2003,21,Indonesia,SUV
+Chevrolet,Express 3500,2002,14,Philippines,SUV
+Pontiac,Daewoo Kalos,2006,28,China,SUV
+Volkswagen,Touareg,2008,69,Libya,Convertible
+Lexus,CT,2012,66,Uzbekistan,Convertible
+Pontiac,Bonneville,1986,45,China,Hatchback
+Chrysler,Crossfire,2007,89,China,Sedan
+Mazda,CX-9,2007,84,Spain,SUV
+Subaru,Impreza,1996,44,Greece,Hatchback
+Aptera,Typ-1,2009,53,Sweden,Truck
+Maserati,Karif,1989,25,Philippines,SUV
+Ford,Mustang,1986,83,Egypt,SUV
+Dodge,Colt,1994,1,Colombia,SUV
+Acura,TL,2003,85,China,SUV
+GMC,Sierra 1500,2013,50,Ukraine,Convertible
+Pontiac,Safari,1988,75,Iran,Convertible
+Subaru,Loyale,1992,68,Sweden,Hatchback
+Ford,Mustang,1967,10,Thailand,Sedan
+Lincoln,Mark VIII,1995,74,Cuba,Truck
+Infiniti,QX,2006,35,Uzbekistan,SUV
+Buick,Lucerne,2006,31,Indonesia,Convertible
+GMC,Yukon XL 1500,2011,17,China,Hatchback
+Mazda,929,1987,85,Germany,Convertible
+Eagle,Vision,1997,66,France,Sedan
+Buick,Park Avenue,1991,99,Indonesia,Hatchback
+Dodge,Viper,2000,49,Ireland,SUV
+Pontiac,G3,2010,17,Indonesia,Truck
+Ford,Explorer Sport,2001,87,Russia,Truck
+Dodge,Caravan,2011,28,China,Truck
+Porsche,914,1970,100,Morocco,Convertible
+Ford,F150,2002,53,China,SUV
+Nissan,Cube,2009,61,Malaysia,Convertible
+Mazda,MX-5,2004,60,Philippines,Truck
+Jaguar,X-Type,2004,98,Lebanon,Truck
+Ford,Escort,1993,49,Papua New Guinea,SUV
+Buick,Regal,1988,85,Brazil,Sedan
+Ford,Windstar,1998,39,Kazakhstan,SUV
+Scion,xB,2004,12,Russia,SUV
+Toyota,Sequoia,2007,38,Angola,Truck
+Chevrolet,2500,1994,79,Russia,Sedan
+Dodge,Dakota Club,2001,16,China,Truck
+Oldsmobile,Bravada,2000,43,Thailand,Truck
+Ford,Explorer,2007,89,China,Truck
+Volvo,V70,2005,14,Hungary,Hatchback
+Scion,xB,2009,23,France,Convertible
+Chevrolet,3500,2000,96,Uruguay,Hatchback
+Chevrolet,Suburban 2500,1996,51,Slovenia,SUV
+Rolls-Royce,Phantom,2006,71,China,Sedan
+Pontiac,LeMans,1989,12,Greece,Truck
+Volkswagen,Golf,2004,50,Poland,Sedan
+Mercedes-Benz,G55 AMG,2006,29,France,Sedan
+Volkswagen,Jetta,1990,8,Poland,Truck
+Mercedes-Benz,S-Class,1986,56,New Zealand,Hatchback
+Mazda,Mazda6,2008,45,Pakistan,Truck
+Buick,LaCrosse,2005,78,Indonesia,Convertible
+Lincoln,Continental,1997,51,Poland,Hatchback
+Volvo,S80,2007,34,Indonesia,SUV
+Honda,Prelude,1997,86,Indonesia,Hatchback
+Cadillac,Seville,2001,89,France,Sedan
+Hyundai,Sonata,2008,54,Hungary,Hatchback
+Chrysler,Imperial,1993,87,Brazil,Truck
+GMC,Sierra 3500,2004,64,Brazil,Truck
+Toyota,4Runner,2003,100,Israel,Sedan
+Pontiac,Bonneville,1985,91,Ethiopia,Truck
+Lexus,LX,2003,62,Armenia,Sedan
+Volkswagen,Cabriolet,1997,64,Malaysia,Convertible
+Land Rover,Defender,1992,76,Brazil,SUV
+Dodge,Durango,2004,64,United States,Truck
+Ford,Th!nk,2000,39,China,Sedan
+Mitsubishi,GTO,1993,67,France,Hatchback
+Buick,Regal,1997,64,Luxembourg,SUV
+Hyundai,Elantra,2005,6,Russia,Truck
+Chevrolet,Silverado 2500,2008,28,China,Hatchback
+Mazda,B-Series,1997,95,Serbia,Convertible
+Cadillac,CTS,2008,66,Greece,Convertible
+Saab,900,1997,36,Indonesia,Sedan
+Chevrolet,Express 1500,1999,48,United States,SUV
+Volvo,XC90,2012,6,Portugal,Truck
+BMW,X6 M,2011,40,China,Convertible
+Mercedes-Benz,R-Class,2010,27,Russia,Sedan
+Saturn,Aura,2007,90,Zambia,Hatchback
+GMC,Terrain,2012,9,Mexico,Hatchback
+GMC,Suburban 2500,1992,92,Sweden,SUV
+Ford,Thunderbird,1980,84,Albania,SUV
+Kia,Sedona,2011,67,China,Sedan
+Mercury,Mariner,2006,48,Indonesia,Convertible
+Plymouth,Roadrunner,1969,16,China,Convertible
+Hyundai,Entourage,2008,25,Poland,Sedan
+Mitsubishi,Montero,1992,15,Russia,Hatchback
+Toyota,Celica,1994,70,Russia,Truck
+Ford,F250,2002,88,Ukraine,SUV
+Chevrolet,Suburban 2500,2008,88,Malaysia,Sedan
+Toyota,Sequoia,2010,8,Hungary,Convertible
+Pontiac,Trans Sport,1994,92,Tanzania,Convertible
+Daewoo,Lanos,2002,15,China,Hatchback
+Rolls-Royce,Ghost,2012,68,Colombia,Truck
+Maserati,Quattroporte,1985,24,Mauritius,Truck
+Jeep,Liberty,2009,47,Russia,SUV
+Hummer,H1,1997,22,Indonesia,Sedan
+Subaru,Legacy,1999,67,Greece,SUV
+Dodge,Sprinter,2006,41,Sweden,Convertible
+Chevrolet,Corvair,1960,53,Finland,Convertible
+Scion,FR-S,2013,34,China,Sedan
+Dodge,Dakota Club,1993,62,China,Convertible
+Acura,Legend,1995,32,Russia,Convertible
+Infiniti,I,2000,97,France,Truck
+Kia,Rio,2011,61,Brazil,Sedan
+Isuzu,VehiCROSS,1999,62,Belarus,Hatchback
+Pontiac,Fiero,1988,40,Indonesia,Sedan
+Mazda,Protege,2003,55,El Salvador,Truck
+Maybach,62,2012,76,China,Sedan
+Toyota,Solara,2005,54,China,Truck
+BMW,M3,2003,33,Mexico,Convertible
+Nissan,300ZX,1994,14,Greece,Sedan
+Volkswagen,Jetta III,1995,2,Iceland,Truck
+Hyundai,Elantra,1996,14,China,Sedan
+GMC,Savana,2009,83,China,Sedan
+Nissan,Quest,2004,86,Russia,Sedan
+Cadillac,Brougham,1992,29,Montenegro,SUV
+Chevrolet,Malibu,2013,1,Indonesia,Truck
+BMW,5 Series,2012,45,Philippines,Convertible
+Saab,9-3,2010,8,Morocco,Convertible
+Aston Martin,Virage,2012,82,United States,SUV
+Honda,Insight,2012,54,Indonesia,Sedan
+Lexus,LX,2003,21,Mauritius,SUV
+Mercury,Mountaineer,1999,81,China,Convertible
+Chevrolet,Sportvan G30,1992,35,Russia,Convertible
+Isuzu,Hombre,2000,30,Indonesia,Sedan
+Ford,Econoline E150,2002,87,Brazil,Truck
+Ford,Explorer Sport Trac,2006,82,Indonesia,Hatchback
+Audi,90,1991,51,Indonesia,Convertible
+Lincoln,Mark VIII,1997,46,China,Truck
+Honda,Prelude,1984,43,Russia,Convertible
+Ford,Probe,1995,52,Mongolia,Convertible
+GMC,Savana 3500,2006,20,Myanmar,SUV
+GMC,Yukon XL 1500,2001,17,China,Sedan
+Bentley,Continental,2012,35,Ukraine,Hatchback
+Volkswagen,Touareg,2012,19,Peru,Convertible
+Rolls-Royce,Phantom,2007,74,Philippines,Hatchback
+Ford,F250,2009,67,China,Convertible
+Land Rover,Range Rover Evoque,2012,64,Argentina,Hatchback
+Ford,E350,2004,93,Poland,Sedan
+Volkswagen,GTI,1986,74,Russia,Hatchback
+Mitsubishi,Lancer,2012,67,Indonesia,Hatchback
+Chevrolet,Caprice,1992,76,Portugal,SUV
+Buick,Rendezvous,2005,26,Ukraine,Sedan
+Oldsmobile,Silhouette,1998,58,China,Convertible
+Dodge,Durango,2011,8,Argentina,SUV
+Mercedes-Benz,SLK-Class,2004,41,Portugal,SUV
+Chevrolet,2500,1998,12,United Kingdom,Truck
+Cadillac,Escalade EXT,2003,85,Bulgaria,Sedan
+Chevrolet,Silverado 3500,2007,93,Nigeria,SUV
+Mazda,Mazda6,2003,28,Indonesia,SUV
+Chevrolet,G-Series G20,1993,85,Chile,SUV
+Isuzu,Rodeo,2004,34,Russia,Sedan
+Lotus,Esprit,1998,93,Luxembourg,Convertible
+Ford,Ranger,1993,38,Ukraine,SUV
+Isuzu,Rodeo,2001,87,Brazil,Hatchback
+Kia,Optima,2007,44,Poland,SUV
+BMW,M3,1996,72,Japan,Convertible
+Suzuki,Equator,2011,17,China,Sedan
+Ford,F-Series Super Duty,2010,99,Russia,Hatchback
+Panoz,Esperante,2007,99,Malaysia,Sedan
+Ford,Excursion,2001,51,Argentina,Sedan
+Toyota,Highlander,2008,100,Burkina Faso,Hatchback
+Ford,Edge,2010,82,Indonesia,Sedan
+BMW,Z4 M,2006,97,France,Hatchback
+Mercury,Mystique,1998,80,Poland,Truck
+GMC,Yukon,2012,60,Czech Republic,Sedan
+Honda,Accord,1999,59,Uzbekistan,Truck
+Mitsubishi,Lancer,2012,63,Indonesia,Convertible
+Mercury,Tracer,1997,13,Indonesia,Hatchback
+Plymouth,Voyager,1994,44,Sweden,Sedan
+Porsche,928,1994,5,Russia,Hatchback
+Porsche,911,2002,35,United States,Truck
+Chevrolet,Malibu,2008,75,China,SUV
+Honda,Accord,2007,68,Sweden,Convertible
+Mercedes-Benz,C-Class,2009,67,Russia,Convertible
+Ford,Econoline E250,1994,42,Sweden,Truck
+Subaru,Impreza,2000,50,Palestinian Territory,Truck
+Mazda,B-Series Plus,1994,73,Indonesia,Convertible
+Suzuki,Swift,2006,12,Nigeria,Convertible
+Mazda,RX-7,1994,3,Sweden,Sedan
+Lexus,IS,2004,22,Russia,Hatchback
+Chevrolet,Cobalt,2005,74,Canada,SUV
+Lexus,ES,1989,9,Argentina,Hatchback
+Kia,Rondo,2010,89,Indonesia,Truck
+Land Rover,Defender 90,1995,93,Indonesia,Truck
+Toyota,Previa,1991,38,Portugal,SUV
+Honda,Civic,2009,48,Colombia,Hatchback
+Buick,Coachbuilder,1995,50,Poland,Hatchback
+Maserati,Karif,1990,9,France,Sedan
+Audi,S4,2013,53,China,Truck
+Oldsmobile,Silhouette,1994,13,Panama,Convertible
+Toyota,Sienna,2006,87,China,Sedan
+Toyota,Corolla,1992,31,Czech Republic,Convertible
+Audi,R8,2012,79,China,Convertible
+Ford,F150,1984,94,Argentina,Hatchback
+Volvo,S80,2002,39,Indonesia,Truck
+Chevrolet,Express 3500,2011,97,Tanzania,Convertible
+Pontiac,Montana SV6,2006,63,Indonesia,Truck
+Mercedes-Benz,CLS-Class,2012,17,Somalia,Hatchback
+Subaru,Legacy,2001,19,Peru,Sedan
+Chevrolet,Cavalier,1993,8,Burkina Faso,Convertible
+Suzuki,SX4,2012,71,Indonesia,Truck
+Ford,Ranger,2005,94,Iran,Hatchback
+Nissan,Armada,2007,19,United States,Hatchback
+Chevrolet,Lumina,2000,65,France,SUV
+Pontiac,Firefly,1986,12,Poland,Truck
+Audi,A6,2007,93,Russia,Hatchback
+Oldsmobile,Custom Cruiser,1992,66,Indonesia,Truck
+Ford,E150,2010,69,Brazil,Hatchback
+Chevrolet,Corvette,1955,81,Mongolia,Truck
+Infiniti,G,2010,33,Jordan,Hatchback
+Mazda,Mazda6 5-Door,2006,49,Finland,Truck
+Ford,Probe,1996,23,China,Convertible
+Audi,V8,1992,14,Mexico,SUV
+Peugeot,207,2007,88,Colombia,Sedan
+Ford,Taurus,2007,58,Indonesia,Hatchback
+Lincoln,MKS,2009,45,Brazil,Convertible
+BMW,X6 M,2010,41,Croatia,Hatchback
+Plymouth,Neon,2001,92,Gambia,Truck
+Toyota,RAV4,2008,57,Albania,Convertible
+BMW,7 Series,2003,33,Serbia,Sedan
+Infiniti,FX,2010,54,Japan,Convertible
+Mazda,B-Series Plus,2003,34,Philippines,Hatchback
+GMC,Safari,1995,21,Nigeria,Truck
+GMC,Savana 1500,2011,97,Sweden,Truck
+Ford,Explorer Sport,2002,61,United States,Convertible
+Bentley,Continental Flying Spur,2012,95,Indonesia,Convertible
+Nissan,240SX,1996,25,Honduras,SUV
+Ford,E150,2003,6,Indonesia,SUV
+Kia,Rondo,2007,16,Sudan,SUV
+Nissan,Sentra,2002,32,Indonesia,Sedan
+Dodge,Sprinter,2008,72,Indonesia,Hatchback
+Chrysler,300,2007,32,Ethiopia,Convertible
+Land Rover,Range Rover,2001,77,Japan,Truck
+Lincoln,Mark LT,2008,34,Russia,Truck
+Cadillac,XLR-V,2008,99,Portugal,Hatchback
+Hyundai,XG350,2003,81,Russia,Sedan
+GMC,Savana 3500,1996,37,Argentina,SUV
+Chevrolet,3500,1998,88,Palestinian Territory,Truck
+Toyota,Previa,1994,90,China,Convertible
+Audi,4000CS Quattro,1986,51,China,Truck
+Oldsmobile,Cutlass Supreme,1993,36,China,Convertible
+Honda,Prelude,1985,50,Philippines,Hatchback
+Lexus,GS,1996,45,Ethiopia,Hatchback
+Mercury,Mountaineer,2010,83,Philippines,Convertible
+Chevrolet,Traverse,2010,47,Thailand,Hatchback
+Lexus,RX Hybrid,2008,50,China,Hatchback
+Chevrolet,Express 1500,2007,64,China,Truck
+Chevrolet,3500,1998,16,China,Truck
+Lincoln,MKS,2009,55,Portugal,SUV
+Volkswagen,Tiguan,2012,10,Pakistan,Truck
+GMC,Vandura 1500,1992,14,China,SUV
+Jeep,Wrangler,2007,90,Ukraine,SUV
+Audi,S5,2009,55,Poland,Hatchback
+Nissan,Sentra,1992,19,China,SUV
+Dodge,Ram Van 2500,1999,62,Indonesia,Hatchback
+Mercedes-Benz,SL-Class,1988,50,Brazil,SUV
+Infiniti,QX,2002,39,Sudan,Hatchback
+Chevrolet,Corvair 500,1963,33,Portugal,Sedan
+Kia,Forte,2010,5,Thailand,Truck
+Ford,Escort,2002,12,China,Truck
+Lexus,RX Hybrid,2012,5,Canada,Truck
+Volkswagen,Jetta,1999,71,Slovenia,Truck
+Mazda,626,1983,29,China,SUV
+Toyota,Camry Hybrid,2008,70,Ukraine,Hatchback
+Ford,F250,1994,55,Indonesia,Truck
+Volvo,940,1994,25,Indonesia,Sedan
+Ford,Explorer,2000,49,Russia,Truck
+Austin,Mini,1959,26,China,Hatchback
+BMW,7 Series,2007,86,Ukraine,SUV
+Mitsubishi,Pajero,1988,90,China,Sedan
+Acura,Integra,1999,22,China,Convertible
+Chevrolet,Silverado 2500,2010,53,Portugal,Truck
+Porsche,911,1994,65,Portugal,Convertible
+Mercedes-Benz,GLK-Class,2011,42,China,Hatchback
+Chevrolet,Avalanche,2010,74,Brazil,Hatchback
+Lotus,Exige,2006,70,Syria,SUV
+Honda,CR-V,2011,68,Japan,Truck
+Lexus,GS,2000,37,Kenya,Sedan
+Mercedes-Benz,CLK-Class,2005,73,Indonesia,SUV
+Cadillac,DTS,2008,24,Azerbaijan,SUV
+Isuzu,Hombre,1996,96,Poland,SUV
+Chevrolet,Cavalier,2000,40,Japan,Hatchback
+Ford,E150,2010,35,Portugal,SUV
+Mazda,Tribute,2003,18,Brazil,Hatchback
+Porsche,Boxster,2008,61,Japan,Truck
+Nissan,Quest,2009,32,Sweden,Convertible
+Dodge,Intrepid,1993,100,Uzbekistan,Truck
+Oldsmobile,Cutlass Supreme,1997,96,Serbia,Convertible
+Saab,9-4X,2011,10,Russia,Hatchback
+Nissan,300ZX,1996,24,Paraguay,Hatchback
+Ford,E-Series,2003,71,Brazil,SUV
+Chevrolet,Lumina,1995,6,Philippines,Hatchback
+Porsche,911,1991,89,Russia,Hatchback
+Chevrolet,Tahoe,2004,85,Brazil,Truck
+Oldsmobile,Aurora,1997,45,Brazil,Convertible
+Chevrolet,Express 3500,1997,15,China,Hatchback
+Jaguar,XK Series,2013,18,Philippines,Hatchback
+Mazda,GLC,1984,24,Peru,Hatchback
+Volkswagen,Type 2,1990,61,Nigeria,SUV
+GMC,Savana 2500,2011,29,China,Truck
+Chevrolet,Silverado 2500,2002,22,Indonesia,Hatchback
+Honda,Pilot,2010,69,Venezuela,Hatchback
+Saturn,Astra,2008,81,China,Convertible
+GMC,1500,1996,43,Italy,Convertible
+Pontiac,Aztek,2002,88,Honduras,Convertible
+Buick,Riviera,1998,95,Indonesia,Hatchback
+Maybach,57,2006,78,Argentina,Truck
+Mitsubishi,Endeavor,2010,42,Russia,Hatchback
+Ford,F-Series Super Duty,2010,95,Brazil,SUV
+Chevrolet,Tracker,2001,11,Poland,Hatchback
+Lexus,ES,2006,91,Brazil,SUV
+Ford,Mustang,1987,91,Indonesia,Truck
+Mitsubishi,Galant,2009,31,Indonesia,SUV
+Mazda,MX-6,1989,100,Poland,Truck
+Mercury,Capri,1991,2,Libya,SUV
+Mercedes-Benz,600SEL,1992,24,Honduras,SUV
+Cadillac,Escalade EXT,2002,100,Thailand,Truck
+Dodge,Ram Van 1500,1995,40,China,Hatchback
+GMC,Savana 1500,2001,80,Indonesia,Sedan
+Mitsubishi,Eclipse,1997,88,Comoros,Sedan
+Ford,E250,2007,40,Portugal,Convertible
+Pontiac,LeMans,1989,28,China,Truck
+Dodge,Dakota,2006,25,China,SUV
+BMW,M3,1998,77,Russia,Truck
+Lexus,SC,1996,58,Portugal,SUV
+Mercury,Cougar,1999,9,Venezuela,Hatchback
+Suzuki,SJ 410,1984,85,Philippines,SUV
+Oldsmobile,Silhouette,1997,65,Brazil,Convertible
+Porsche,911,2010,12,Brazil,Truck
+GMC,Savana,2007,72,Indonesia,Truck
+Volkswagen,New Beetle,2010,81,United States,Convertible
+Audi,A6,2004,13,China,Convertible
+GMC,Suburban 2500,1996,96,Russia,Sedan
+Nissan,Altima,1999,10,Philippines,Hatchback
+Mitsubishi,Mirage,2000,77,Italy,SUV
+GMC,Sierra 3500,2009,97,Philippines,SUV
+Jaguar,S-Type,2004,59,Portugal,Truck
+BMW,3 Series,2006,84,China,Hatchback
+Pontiac,Grand Am,1991,39,Ukraine,Convertible
+Chevrolet,LUV,1979,96,Philippines,SUV
+Chrysler,Town & Country,1997,1,United States,Hatchback
+Ford,Flex,2012,40,Armenia,Truck
+Volkswagen,Golf,1997,90,Ukraine,Convertible
+Suzuki,Grand Vitara,2010,92,China,SUV
+Ford,Escape,2004,9,Russia,SUV
+Ford,Ranger,1993,1,China,Hatchback
+Dodge,Dakota,2010,24,Russia,Convertible
+Pontiac,G6,2007,74,Russia,Sedan
+Pontiac,Grand Am,1999,7,Canada,Sedan
+GMC,Savana 2500,1998,37,China,Sedan
+Volkswagen,Passat,2007,90,Peru,SUV
+Chevrolet,Malibu,2001,47,Indonesia,SUV
+Ford,Mustang,2006,95,Russia,Hatchback
+Ford,Ranger,2003,66,China,SUV
+Lincoln,Mark VIII,1998,18,China,Sedan
+Lexus,RX,2007,32,Russia,Hatchback
+Ford,F350,1995,38,China,Sedan
+Dodge,Dakota Club,2003,29,Philippines,Sedan
+Ford,E250,1984,84,Japan,Hatchback
+GMC,Sierra 1500,2005,67,China,Convertible
+Pontiac,Bonneville,1989,12,Croatia,Convertible
+GMC,Savana 1500,2010,86,Brazil,Sedan
+Lexus,SC,2005,68,Indonesia,Hatchback
+Porsche,Panamera,2012,26,Sweden,Sedan
+Acura,TSX,2007,77,United States,SUV
+Cadillac,DTS,2010,5,Denmark,Truck
+Buick,Electra,1985,85,Argentina,SUV
+Kia,Sorento,2007,76,Mexico,Convertible
+Volkswagen,Jetta,1990,60,Greece,Hatchback
+Volvo,S60,2004,2,Greece,SUV
+Nissan,Sentra,2011,43,Indonesia,Convertible
+Mazda,MPV,1989,45,Philippines,Hatchback
+Lexus,RX Hybrid,2010,71,China,Convertible
+Volkswagen,Fox,1987,37,Paraguay,Hatchback
+Chevrolet,Camaro,1974,17,Russia,Sedan
+Pontiac,Sunfire,2003,2,Portugal,Hatchback
+Volkswagen,Phaeton,2005,33,Indonesia,Hatchback
+Hyundai,Accent,1996,3,China,Convertible
+Acura,SLX,1998,49,Brazil,Truck
+Chrysler,Town & Country,2011,86,Malaysia,Truck
+Chevrolet,Corvette,1962,91,China,Convertible
+Land Rover,Discovery,2006,22,China,Truck
+Jeep,Compass,2011,27,Malaysia,SUV
+Ford,E-Series,1991,6,France,Convertible
+Audi,A4,2006,89,Portugal,Hatchback
+Buick,Regal,1995,62,Vietnam,Hatchback
+Ford,Bronco II,1987,22,China,Hatchback
+Mazda,Miata MX-5,2000,82,Cuba,Hatchback
+Audi,TT,2002,74,Indonesia,Convertible
+Volkswagen,New Beetle,2004,61,Netherlands,SUV
+Mercedes-Benz,300TE,1992,26,China,Convertible
+Cadillac,Escalade ESV,2008,65,China,Truck
+Infiniti,JX,2013,79,Philippines,SUV
+Cadillac,Seville,2003,8,China,Truck
+Mercury,Mountaineer,2006,50,Indonesia,SUV
+Aston Martin,Vantage,2006,46,Brazil,Truck
+Lotus,Elan,1991,21,China,Convertible
+Kia,Rio,2011,77,China,SUV
+Chrysler,Town & Country,2003,1,Uganda,SUV
+BMW,M Roadster,2007,31,China,Truck
+Kia,Sephia,1995,27,Western Sahara,SUV
+Mazda,Mazda6,2005,59,Russia,SUV
+Ford,Thunderbird,1965,22,Poland,Convertible
+Ford,Ranger,2005,22,Philippines,Hatchback
+Ford,Taurus,1989,70,Japan,Sedan
+Hyundai,Azera,2008,22,Slovenia,SUV
+Dodge,Neon,1995,95,China,Sedan
+Ford,Econoline E350,1993,20,Philippines,SUV
+Toyota,Tacoma,2003,43,China,Convertible
+Oldsmobile,Regency,1997,44,China,Sedan
+Buick,Century,2005,35,Czech Republic,Truck
+Volkswagen,GTI,1998,92,Japan,Sedan
+Lincoln,Blackwood,2003,39,Philippines,SUV
+Hyundai,Veloster,2013,6,Russia,Hatchback
+Chevrolet,Monte Carlo,1997,36,China,SUV
+Chevrolet,Tahoe,2008,7,Russia,Truck
+Lincoln,Continental,1991,39,Argentina,Sedan
+Mazda,626,2001,43,China,Sedan
+Alfa Romeo,Spider,1993,52,Indonesia,Truck
+Chevrolet,Astro,1994,14,Brazil,Hatchback
+Lexus,CT,2012,70,Iceland,Hatchback
+Mitsubishi,Lancer,2004,3,Poland,SUV
+Cadillac,DTS,2008,92,China,Truck
+BMW,M,2001,44,Brazil,Hatchback
+Acura,NSX,1994,94,Indonesia,SUV
+Chevrolet,G-Series G20,1995,53,Thailand,Hatchback
+Toyota,Corolla,1996,34,China,Truck
+Maserati,Biturbo,1987,46,China,Hatchback
+Mitsubishi,GTO,1995,33,China,Truck
+Chevrolet,Impala,2012,93,China,Truck
+Audi,A4,2000,49,Poland,Convertible
+BMW,M3,1995,33,Portugal,Hatchback
+Ford,F150,1994,89,Indonesia,Truck
+GMC,EV1,1999,98,Mexico,Hatchback
+Volkswagen,New Beetle,2000,23,Russia,Convertible
+Subaru,Outback,2009,25,France,Hatchback
+Chevrolet,Express 1500,2003,93,China,Convertible
+Chrysler,Town & Country,2001,36,Russia,Sedan
+BMW,7 Series,1997,15,United States,SUV
+Lexus,ES,1998,86,France,SUV
+Chevrolet,Corvette,1988,51,China,Convertible
+Audi,A8,2011,77,Indonesia,Convertible
+Mitsubishi,Chariot,1992,65,Uzbekistan,Truck
+Volvo,XC70,2010,62,Netherlands,Truck
+Mitsubishi,Mirage,1996,57,Indonesia,Convertible
+Isuzu,Rodeo,1994,41,China,Hatchback
+Mercedes-Benz,CLK-Class,2007,70,Sweden,Hatchback
+Mazda,B-Series Plus,2004,71,Tunisia,Truck
+Volkswagen,Cabriolet,1988,86,Brazil,Sedan
+Volvo,C30,2013,91,China,Hatchback
+Mercury,Villager,1995,55,Indonesia,Truck
+Pontiac,Bonneville,2003,56,Russia,Truck
+Nissan,Stanza,1992,11,Vietnam,Sedan
+Suzuki,Grand Vitara,2012,91,Indonesia,Convertible
+Dodge,Caravan,1999,37,China,SUV
+BMW,5 Series,2008,80,Sierra Leone,Convertible
+Hummer,H1,2002,15,Russia,SUV
+Mazda,929,1995,11,Thailand,SUV
+Lincoln,Town Car,1991,11,Canada,Hatchback
+Bentley,Continental GTC,2011,16,China,Sedan
+Volvo,S70,1998,61,Serbia,Sedan
+Kia,Rio5,2008,71,Thailand,Sedan
+Dodge,Journey,2012,92,Mauritius,Convertible
